@@ -3,7 +3,7 @@
     pyssrs.py
     SQL Server Reporting Services Python-library
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    :copyright: (c) 2014 by Shaidullin Marat, Bodunkov Anton.
+    :copyright: (c) 2014 by Bogunkov Anton, Shaidullin Marat.
     :license: Apache License.
 
 """
